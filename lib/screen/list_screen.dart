@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import "package:atividade04/screen/form_screen.dart";
+import '../screen/form_screen.dart';
 
 class ListScreen extends StatefulWidget {
   @override
